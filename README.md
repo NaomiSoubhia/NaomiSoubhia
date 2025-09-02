@@ -1,4 +1,4 @@
-### Olá! Eu sou a Naomi
+### Hi! I'm Naomi
 
 <div align="center">
   <a href="https://github.com/naomisoubhia">
