@@ -15,5 +15,6 @@ A curious and passionate developer exploring **web, mobile, and software develop
 <img align="center" alt="Swift Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />     
 <img align="center" alt="Python Icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
+<br>
 
 🚀 I’m always **excited to collaborate, learn, and build projects** that make life a little easier and a lot more fun!
