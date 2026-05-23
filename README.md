@@ -1,8 +1,8 @@
 <img width="1584" height="396" alt="Naomi Soubhia Doi" src="https://github.com/user-attachments/assets/4fe8a2fc-f445-4947-9e71-b504c792b4ec" />
 
-Hi! I'm Naomi 💜🪻
+# Hi! I'm Naomi 💜🪻
 
-A passionate and growth-driven developer with a strong interest in web, mobile, and software development. I enjoy transforming ideas into clean, functional applications while continuously exploring new technologies and improving my skills as a developer.
+ A passionate and growth-driven developer with a strong interest in web, mobile, and software development. I enjoy transforming ideas into clean, functional applications while continuously exploring new technologies and improving my skills as a developer.
 
 
 <p align="center">
