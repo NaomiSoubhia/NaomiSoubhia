@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="social media - Naomi" src="https://github.com/user-attachments/assets/d150ceb3-b5a6-4835-85b1-9c1f2e75ca6f" />
+<img width="1584" height="396" alt="Naomi Soubhia Doi" src="https://github.com/user-attachments/assets/4fe8a2fc-f445-4947-9e71-b504c792b4ec" />
 
 Hi! I'm Naomi 💜🪻
 
