@@ -6,7 +6,8 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a href="https://www.linkedin.com/in/naomi-soubhia-doi/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ````md
