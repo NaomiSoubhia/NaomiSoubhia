@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="social media - Naomi" src="https://github.com/user-attachments/assets/d150ceb3-b5a6-4835-85b1-9c1f2e75ca6f" />
+
 Hi! I'm Naomi 💜🪻
 
 A passionate and growth-driven developer with a strong interest in web, mobile, and software development. I enjoy transforming ideas into clean, functional applications while continuously exploring new technologies and improving my skills as a developer.
