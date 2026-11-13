@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="YOUR_WEBSITE_URL" target="_blank">
+  <a href="https://naomisoubhia.github.io/NaomiSoubhiaDoi/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-7B2CBF?style=for-the-badge" alt="Visit My Website"/>
   </a>
   <a href="https://www.linkedin.com/in/naomi-soubhia-doi/" target="_blank">
