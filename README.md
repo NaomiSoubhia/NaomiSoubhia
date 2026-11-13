@@ -6,8 +6,12 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/naomi-soubhia-doi/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_WEBSITE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-7B2CBF?style=for-the-badge" alt="Visit My Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/naomi-soubhia-doi/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7B2CBF?style=for-the-badge" alt="Connect on LinkedIn"/>
+  </a>
 </p>
 
 ````md
